@@ -32,6 +32,4 @@ public class Pill extends AuditingTimeEntity {
 
     @Column(nullable = false)
     private LocalDate endDate;
-
-
 }
